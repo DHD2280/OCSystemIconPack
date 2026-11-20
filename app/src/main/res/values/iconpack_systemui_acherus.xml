@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_idk_systemui_acherus">#ff000000</color>
+    <color name="qs_tile_icon_oos_systemui_acherus">#909090</color>
+    <color name="qs_tile_oos_systemui_acherus">#FFFFFF</color>
+    <color name="qs_tile_oos_background_systemui_acherus">#272727</color>
+    <dimen name="no_signal_cluster_battery_padding_systemui_acherus">2dp</dimen>
+</resources>

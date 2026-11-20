@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_toggle_airplane_settings_pui_cos17">false</bool>
+    <color name="ColorNight_settings_pui_cos17">#000000</color>
+    <color name="coui_color_divider_settings_pui_cos17">#10000000</color>
+    <color name="coui_color_divider_dark_settings_pui_cos17">#1f000000</color>
+    <color name="coui_color_divider_light_settings_pui_cos17">#1f000000</color>
+    <color name="coui_color_primary_neutral_settings_pui_cos17">#e6000000</color>
+    <color name="coui_color_primary_neutral_disable_settings_pui_cos17">#5f000000</color>
+    <color name="coui_seekbar_progress_color_disabled_settings_pui_cos17">#e6e6e6</color>
+    <color name="monet_color_settings_pui_cos17">@android:color/system_neutral1_600</color>
+    <color name="pui_color_divider_settings_pui_cos17">#1f000000</color>
+    <dimen name="coui_navigation_shadow_height_settings_pui_cos17">0dp</dimen>
+    <dimen name="dashboard_list_item_icon_size_settings_pui_cos17">36dp</dimen>
+    <dimen name="horizontal_divider_height_settings_pui_cos17">0dp</dimen>
+    <dimen name="list_divider_height_settings_pui_cos17">0dp</dimen>
+    <dimen name="toolbar_divider_height_settings_pui_cos17">0dp</dimen>
+</resources>

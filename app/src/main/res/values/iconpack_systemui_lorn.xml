@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="signal_cluster_battery_padding_systemui_lorn">0.0dip</dimen>
+    <dimen name="status_bar_battery_icon_height_systemui_lorn">29.0dip</dimen>
+    <dimen name="status_bar_battery_icon_width_systemui_lorn">22.0dip</dimen>
+</resources>

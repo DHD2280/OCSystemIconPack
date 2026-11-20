@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorNight_systemui_pui_cos17">#ffffffff</color>
+    <color name="ColorNightMight_systemui_pui_cos17">#30ffffff</color>
+    <color name="clear_all_bg_color_systemui_pui_cos17">#30ffffff</color>
+    <color name="clear_all_icon_systemui_pui_cos17">@android:color/system_accent1_700</color>
+    <color name="icon_color_systemui_pui_cos17">#ffffffff</color>
+</resources>

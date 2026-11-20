@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorNight_settings_pui_cos17">#ffffff</color>
+    <color name="coui_color_divider_settings_pui_cos17">#10ffffff</color>
+    <color name="coui_color_primary_neutral_settings_pui_cos17">#e6ffffff</color>
+    <color name="coui_color_primary_neutral_disable_settings_pui_cos17">#72ffffff</color>
+    <color name="coui_seekbar_progress_color_disabled_settings_pui_cos17">#262626</color>
+    <color name="monet_color_settings_pui_cos17">@android:color/system_neutral1_100</color>
+    <color name="pui_color_divider_settings_pui_cos17">#10ffffff</color>
+</resources>

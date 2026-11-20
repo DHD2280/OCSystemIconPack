@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_idk_systemui_acherus">#ffffffff</color>
+    <color name="qs_tile_icon_oos_systemui_acherus">#98a098</color>
+    <color name="qs_tile_oos_systemui_acherus">#222222</color>
+    <color name="qs_tile_oos_background_systemui_acherus">#DBDBDB</color>
+</resources>

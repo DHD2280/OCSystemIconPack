@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_mode_icon_color_dual_tone_background_systemui_gradicon">#ff919191</color>
+    <color name="light_mode_icon_color_dual_tone_fill_systemui_gradicon">#ffc9c9c9</color>
+    <dimen name="status_bar_mobile_signal_width_systemui_gradicon">17.0dip</dimen>
+</resources>
