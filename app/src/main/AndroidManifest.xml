@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:label="System Icons Pack"
+        android:supportsRtl="true"
+        tools:ignore="MissingApplicationIcon">
+
+        <meta-data
+            android:name="packauthor"
+            android:value="Luigi (DHD2280)" /> <!-- Author of the icon pack -->
+
+        <!-- START OF ICON PACKS -->
+
+        <!-- END OF ICON PACKS -->
+    </application>
+
+</manifest>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorNight">#ffffffff</color>
+    <color name="ColorNightMight">#30ffffff</color>
+    <color name="clear_all_bg_color">#30ffffff</color>
+    <color name="clear_all_icon">@android:color/system_accent1_700</color>
+    <color name="icon_color">#ffffffff</color>
+</resources>

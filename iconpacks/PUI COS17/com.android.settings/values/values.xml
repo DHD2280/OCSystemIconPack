@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_toggle_airplane">false</bool>
+    <color name="ColorNight">#000000</color>
+    <color name="coui_color_divider">#10000000</color>
+    <color name="coui_color_divider_dark">#1f000000</color>
+    <color name="coui_color_divider_light">#1f000000</color>
+    <color name="coui_color_primary_neutral">#e6000000</color>
+    <color name="coui_color_primary_neutral_disable">#5f000000</color>
+    <color name="coui_seekbar_progress_color_disabled">#e6e6e6</color>
+    <color name="monet_color">@android:color/system_neutral1_600</color>
+    <color name="pui_color_divider">#1f000000</color>
+    <dimen name="coui_navigation_shadow_height">0dp</dimen>
+    <dimen name="dashboard_list_item_icon_size">36dp</dimen>
+    <dimen name="horizontal_divider_height">0dp</dimen>
+    <dimen name="list_divider_height">0dp</dimen>
+    <dimen name="toolbar_divider_height">0dp</dimen>
+</resources>

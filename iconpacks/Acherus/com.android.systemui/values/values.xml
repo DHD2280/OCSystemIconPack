@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_idk">#ff000000</color>
+    <color name="qs_tile_icon_oos">#909090</color>
+    <color name="qs_tile_oos">#FFFFFF</color>
+    <color name="qs_tile_oos_background">#272727</color>
+    <dimen name="no_signal_cluster_battery_padding">2dp</dimen>
+</resources>
